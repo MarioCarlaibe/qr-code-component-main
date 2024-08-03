@@ -13,7 +13,7 @@ Esta é uma solução para o [desafio de componente de código QR no Frontend Me
 
 ### Captura de tela
 
-![./src/desing/conclusao-do-projeto]
+[<img src="./src/desing/conclusao-do-projeto">]
 
 ### Criado com
 
